@@ -1,0 +1,7 @@
+﻿  Lab_1.3.cpp
+E:\Lab3\Lab_1.3\Lab_1.3\Lab_1.3.cpp(54,6): warning C4101: 'Math': unreferenced local variable
+E:\Lab3\Lab_1.3\Lab_1.3\Lab_1.3.cpp(52,13): warning C4101: 'spec': unreferenced local variable
+E:\Lab3\Lab_1.3\Lab_1.3\Lab_1.3.cpp(53,6): warning C4101: 'Physical': unreferenced local variable
+E:\Lab3\Lab_1.3\Lab_1.3\Lab_1.3.cpp(55,6): warning C4101: 'Informatik': unreferenced local variable
+E:\Lab3\Lab_1.3\Lab_1.3\Lab_1.3.cpp(51,11): warning C4101: 'kurs': unreferenced local variable
+E:\Lab3\Lab_1.3\Lab_1.3\Lab_1.3.cpp(151): error C4716: 'Highest': must return a value
